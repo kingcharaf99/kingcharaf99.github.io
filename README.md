@@ -1,5 +1,5 @@
 # kingcharaf99.github.io
-My github.io website.
+My github.io website. I want to keep it simple for now. In the summer, I hope to make this website better. I will also use it to practice since it is free.
 
 ### Hey guys, this is the code to my github.io website:
 ##### index.html
