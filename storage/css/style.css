@@ -258,9 +258,11 @@ img {
 }
 
 .card .descLink {
-    padding: 5px 50px;
+    padding: 10px 10px;
     border-radius: 5px;
     position: absolute;
+    bottom: 0%;
+    top: 80%;
     z-index: 10;
 background-color: #2C2D32;
 }
