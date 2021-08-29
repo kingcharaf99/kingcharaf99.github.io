@@ -306,7 +306,7 @@ background-color: #2C2D32;
 }
 
 .card1 .title:after {
-    content: ' - Discord bot';
+    content: '';
 }
 
 .card2 .title:after {
@@ -314,11 +314,11 @@ background-color: #2C2D32;
 }
 
 .card3 .title:after {
-    content: ' - Website';
+    content: '';
 }
 
 .card4 .title:after {
-    content: ' - Website';
+    content: '';
 }
 
 
