@@ -308,7 +308,7 @@ background-color: #2C2D32;
 }
 
 .card1 .title:after {
-    content: ' - Discord Bot';
+    content: ' - Discord Bot ';
 }
 
 .card2 .title:after {
