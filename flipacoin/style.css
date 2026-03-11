@@ -1,8 +1,8 @@
-*{
-    padding: 0;
-    margin: 0;
-    box-sizing: border-box;
-    font-family: "Rubik",sans-serif;
+{
+  font-family: "Montserrat", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
 }
 body{
     height: 100%;
@@ -81,4 +81,5 @@ button{
     background-color: #000000;
     border-color: #000000;
     color: #ffffff;
+
 }
