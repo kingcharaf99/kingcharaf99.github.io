@@ -8,12 +8,12 @@ body{
     height: 100%;
     background: linear-gradient(
         to right,
-        #000000 50%,
-        #000000 50%
+        #006e00 50%,
+        #006e00 50%
     ) fixed;
 }
 .container{
-    background-color: #000000;
+    background-color: #006e00;
     width: 400px;
     padding: 50px;
     position: absolute;
@@ -74,12 +74,13 @@ button{
     cursor: pointer;
 }
 #flip-button{
-    background-color: #000000;
+    background-color: #006e00;
     color: #ffffff;
 }
 #flip-button:disabled{
-    background-color: #000000;
-    border-color: #000000;
+    background-color: #006e00;
+    border-color: #006e00;
     color: #ffffff;
 
 }
+
